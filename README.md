@@ -2,19 +2,19 @@
 
  - ✨ I'm Loisa. Nice to meet you.
  
- - 🎨 I'm a graphic designer. I mostly work on logos.
+ - 🎨 Graphic designer. I mostly work on logos.
  
- - 🌱 I’m currently learning PHP Laravel and Python.
+ - 🌱 Currently learning PHP Laravel and Python.
  
- - 👩🏻‍💻 I'm a member of Icreatechs Community.
+ - 👩🏻‍💻 Member of Icreatechs Community.
  
- - 🔭 I’m currently working on a Timetabling System.
+ - 🔭 Currently working on a Timetabling System.
  
-##How to reach me: 
+### How to reach me: 
 
-<a href="mailto: eloi.celaje@gmail.com"><img src="https://i.pinimg.com/564x/b4/b9/59/b4b9599f4e8b20d7133ed668050a2251.jpg" style="height: 50px;"> Eloisa A. Celaje </a>
+<a href="mailto: eloi.celaje@gmail.com"><img src="https://i.pinimg.com/564x/b4/b9/59/b4b9599f4e8b20d7133ed668050a2251.jpg" style="height: 50px;"></a>
 
-##Icreatechs:
+### Icreatechs:
 
 [![Community](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
 
