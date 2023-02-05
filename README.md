@@ -1,10 +1,15 @@
 ### Hi there 👋
 
- • ✨ I'm Loisa. Nice to meet you.
+ - • ✨ I'm Loisa. Nice to meet you.
+ 
  • 🎨 I'm a graphic designer. I mostly work on logos.
+ 
  • 🌱 I’m currently learning PHP Laravel and Python.
+ 
  • 👩🏻‍💻 I'm a member of Icreatechs Community.
+ 
  • 🔭 I’m currently working on a Timetabling System.
+ 
  • 📫 How to reach me: elocelaje@my.cspc.edu.ph
 
 <!--
