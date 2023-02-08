@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - ✨ I'm Loisa. Nice to meet you.
-- 🎨 Graphic designer, mostly work on logos.
+- 🎨 Graphic designer, usually work on logos.
+- 🎨 Digital Artist.
 - 🌱 Currently learning PHP Laravel and Python.
 - 👩🏻‍💻 Member of Icreatechs Community.
 - 🔭 Currently working on a Timetabling System.
