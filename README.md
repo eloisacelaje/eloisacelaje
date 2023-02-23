@@ -3,7 +3,7 @@
 - ✨ I'm Loisa. Nice to meet you.
 - 🎨 Graphic designer, usually work on logos.
 - 🎨 Digital Artist.
-- 🌱 Currently learning PHP Laravel and Python.
+- 🌱 Currently learning PHP Laravel.
 - 👩🏻‍💻 Member of Icreatechs Community.
 - 🔭 Currently working on a Timetabling System.
  
@@ -23,12 +23,13 @@
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{Ace0601}/count.svg)
 
--- Design is credited to: <a href="https://github.com/carlcastanas">Carl Castanas</a>
-
-<!--
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ace0601&show_icons=true&locale=en" alt="ace0601" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace0601&show_icons=true&locale=en&layout=compact" alt="ace0601" /></p>
+
+-- credits to: <a href="https://github.com/carlcastanas">Carl Castanas</a> and <a href="https://github.com/emmarcaber">Emmar Caber</a>
+
+<!--
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
