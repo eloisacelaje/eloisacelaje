@@ -16,6 +16,7 @@
 <a href="https://instagram.com/eli_skylight"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/silentspokesper"><img src="https://img.shields.io/badge/Twitter-%230080B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.facebook.com/loisa.ac.984/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eloisa-celaje-6b3a1a193/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Icreatechs:
 
