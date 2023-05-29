@@ -1,6 +1,6 @@
 # Hi there 👋 
 ## I'm Loisa, and I'm a . . .
-- ✨ Front-End Web Developer
+- ✨ Web Developer
 - 📚 Researcher
 - 🎨 Digital artist and graphic designer, usually work on logos.
 - 👩🏻‍💻 Member of Icreatechs Community.
