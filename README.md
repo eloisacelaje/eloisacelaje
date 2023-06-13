@@ -10,7 +10,7 @@
  
 ## How to reach me: 
 
-<img src="https://i.pinimg.com/564x/b4/b9/59/b4b9599f4e8b20d7133ed668050a2251.jpg" style="height: 30px;"> <a href="mailto: eloi.celaje@gmail.com"><img src="https://img.shields.io/badge/-eloi.celaje%40gmail.com-64C2BA?" style="height:27px; width: 200px;"></a>
+<img src="https://i.pinimg.com/564x/b4/b9/59/b4b9599f4e8b20d7133ed668050a2251.jpg" style="height: 30px;"> <a href="mailto: elocelaje@my.cspc.edu.ph.com"><img src="https://img.shields.io/badge/-elocelaje%40my.cspc.edu.ph-64C2BA?" style="height:27px; width: 200px;"></a>
 
 ## Social Media Accounts:
 <a href="https://instagram.com/eli_skylight"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
