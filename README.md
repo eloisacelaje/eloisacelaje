@@ -11,7 +11,7 @@
 
 # Other information:
 ## GitHub Status:
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ciel61&" alt="ciel61" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eloisacelaje&" alt="eloisacelaje" /></p>
 
  ## How to reach me:
 
@@ -29,9 +29,9 @@
 
 ## Profile Visits:
 
-![Visitor Count](https://profile-counter.glitch.me/{ciel61}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{eloisacelaje}/count.svg)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ciel61&show_icons=true&locale=en" alt="ciel61" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciel61&show_icons=true&locale=en&layout=compact" alt="ciel61" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eloisacelaje&show_icons=true&locale=en" alt="eloisacelaje" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisacelaje&show_icons=true&locale=en&layout=compact" alt="eloisacelaje" /></p>
 
 <!--
 -- credits to: <a href="https://github.com/carlcastanas">Carl Castanas</a> and <a href="https://github.com/emmarcaber">Emmar Caber</a>
