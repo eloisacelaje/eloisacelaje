@@ -30,8 +30,8 @@
 ## Profile Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/{eloisacelaje}/count.svg)
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eloisacelaje&show_icons=true&locale=en" alt="eloisacelaje" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisacelaje&show_icons=true&locale=en&layout=compact" alt="eloisacelaje" /></p>
+<!--
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eloisacelaje&show_icons=true&locale=en" alt="eloisacelaje" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisacelaje&show_icons=true&locale=en&layout=compact" alt="eloisacelaje" /></p>-->
 
 <!--
 -- credits to: <a href="https://github.com/carlcastanas">Carl Castanas</a> and <a href="https://github.com/emmarcaber">Emmar Caber</a>
