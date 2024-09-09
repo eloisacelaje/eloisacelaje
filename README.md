@@ -2,12 +2,9 @@
 # Hi! I'm Loisa 😊
 ### I'm a . . .
 - ✨ Front-end Web Developer
-- 📚 Researcher and Proofreader
-- 🎨 Digital artist and graphic designer.
-- 👩🏻‍💻 Member of Icreatechs Community.
-## I'm currently . . .
-- 🌱 learning PHP Laravel and Vue
-- 🔭 working on a Timetabling System (Capstone Project).
+- 📚 Researcher, Proofreader, and Editor
+- 🎨 Digital artist and graphics designer
+- 👩🏻‍💻 Member of Icreatechs Community
 
 # Other information:
 ## GitHub Status:
