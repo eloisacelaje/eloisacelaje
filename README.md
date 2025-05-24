@@ -3,7 +3,7 @@
 ### I'm a . . .
 - ✨ Front-end Web Developer
 - 📚 Researcher, Proofreader, and Editor
-- 🎨 Digital artist and graphics designer
+- 🎨 Digital artist and UI/UX designer
 - 👩🏻‍💻 Member of Icreatechs Community
 
 # Other information:
